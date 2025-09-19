@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lightspeed Support Portal</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <h1><i class="fas fa-bolt"></i> Lightspeed Support</h1>
+            </div>
+            <nav class="nav">
+                <ul>
+                    <li><a href="#home" class="nav-link active">Home</a></li>
+                    <li><a href="#help" class="nav-link">Online Help</a></li>
+                    <li><a href="#tutorials" class="nav-link">How-to Guides</a></li>
+                    <li><a href="#downloads" class="nav-link">Downloads</a></li>
+                    <li><a href="#contact" class="nav-link">Contact</a></li>
+                </ul>
+            </nav>
+            <button class="mobile-menu-btn">
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
+    </header>
+
+    <!-- Mobile Navigation -->
+    <nav class="mobile-nav">
+        <ul>
+            <li><a href="#home" class="nav-link">Home</a></li>
+            <li><a href="#help" class="nav-link">Online Help</a></li>
+            <li><a href="#tutorials" class="nav-link">How-to Guides</a></li>
+            <li><a href="#downloads" class="nav-link">Downloads</a></li>
+            <li><a href="#contact" class="nav-link">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main">
+        <!-- Home Section -->
+        <section id="home" class="section active">
+            <div class="container">
+                <div class="hero">
+                    <h2>Welcome to Lightspeed Support</h2>
+                    <p>Your comprehensive resource for getting the most out of Lightspeed. Find help articles, step-by-step guides, and downloadable resources all in one place.</p>
+                    
+                    <div class="search-container">
+                        <input type="text" id="global-search" placeholder="Search for help topics, guides, or resources..." class="search-input">
+                        <button class="search-btn">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="feature-grid">
+                    <div class="feature-card" onclick="showSection('help')">
+                        <i class="fas fa-question-circle"></i>
+                        <h3>Online Help</h3>
+                        <p>Browse our comprehensive knowledge base with searchable articles and FAQs.</p>
+                        <span class="card-link">Browse Help Articles <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                    
+                    <div class="feature-card" onclick="showSection('tutorials')">
+                        <i class="fas fa-book-open"></i>
+                        <h3>How-to Guides</h3>
+                        <p>Step-by-step instructions to help you accomplish specific tasks and workflows.</p>
+                        <span class="card-link">View Tutorials <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                    
+                    <div class="feature-card" onclick="showSection('downloads')">
+                        <i class="fas fa-download"></i>
+                        <h3>Resource Downloads</h3>
+                        <p>Access documentation, templates, tools, and other helpful resources.</p>
+                        <span class="card-link">Browse Downloads <i class="fas fa-arrow-right"></i></span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Online Help Section -->
+        <section id="help" class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Online Help</h2>
+                    <p>Find answers to common questions and browse our knowledge base</p>
+                    
+                    <div class="search-container">
+                        <input type="text" id="help-search" placeholder="Search help articles..." class="search-input">
+                        <button class="search-btn">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="help-categories">
+                    <div class="category-filters">
+                        <button class="filter-btn active" data-category="all">All Topics</button>
+                        <button class="filter-btn" data-category="getting-started">Getting Started</button>
+                        <button class="filter-btn" data-category="features">Features</button>
+                        <button class="filter-btn" data-category="troubleshooting">Troubleshooting</button>
+                        <button class="filter-btn" data-category="account">Account Management</button>
+                    </div>
+
+                    <div class="help-articles" id="help-articles">
+                        <div class="article-card" data-category="getting-started">
+                            <div class="article-icon">
+                                <i class="fas fa-rocket"></i>
+                            </div>
+                            <div class="article-content">
+                                <h3>Getting Started with Lightspeed</h3>
+                                <p>Learn the basics of setting up and using Lightspeed for the first time.</p>
+                                <div class="article-meta">
+                                    <span class="category">Getting Started</span>
+                                    <span class="read-time">5 min read</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="article-card" data-category="features">
+                            <div class="article-icon">
+                                <i class="fas fa-cog"></i>
+                            </div>
+                            <div class="article-content">
+                                <h3>Understanding Core Features</h3>
+                                <p>Explore the main features and capabilities of Lightspeed.</p>
+                                <div class="article-meta">
+                                    <span class="category">Features</span>
+                                    <span class="read-time">8 min read</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="article-card" data-category="troubleshooting">
+                            <div class="article-icon">
+                                <i class="fas fa-wrench"></i>
+                            </div>
+                            <div class="article-content">
+                                <h3>Common Issues and Solutions</h3>
+                                <p>Find solutions to frequently encountered problems and error messages.</p>
+                                <div class="article-meta">
+                                    <span class="category">Troubleshooting</span>
+                                    <span class="read-time">6 min read</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="article-card" data-category="account">
+                            <div class="article-icon">
+                                <i class="fas fa-user-cog"></i>
+                            </div>
+                            <div class="article-content">
+                                <h3>Managing Your Account</h3>
+                                <p>Learn how to update your profile, change settings, and manage billing.</p>
+                                <div class="article-meta">
+                                    <span class="category">Account Management</span>
+                                    <span class="read-time">4 min read</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Tutorials Section -->
+        <section id="tutorials" class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>How-to Guides</h2>
+                    <p>Step-by-step instructions for common tasks and workflows</p>
+                </div>
+
+                <div class="tutorial-grid">
+                    <div class="tutorial-card">
+                        <div class="tutorial-header">
+                            <i class="fas fa-play-circle"></i>
+                            <span class="difficulty easy">Beginner</span>
+                        </div>
+                        <h3>How to Set Up Your First Project</h3>
+                        <p>A comprehensive guide to creating and configuring your first project in Lightspeed.</p>
+                        <div class="tutorial-meta">
+                            <span><i class="fas fa-clock"></i> 15 minutes</span>
+                            <span><i class="fas fa-list"></i> 6 steps</span>
+                        </div>
+                        <button class="tutorial-btn">Start Tutorial</button>
+                    </div>
+
+                    <div class="tutorial-card">
+                        <div class="tutorial-header">
+                            <i class="fas fa-database"></i>
+                            <span class="difficulty medium">Intermediate</span>
+                        </div>
+                        <h3>How to Import and Manage Data</h3>
+                        <p>Learn how to import your existing data and set up automated data management workflows.</p>
+                        <div class="tutorial-meta">
+                            <span><i class="fas fa-clock"></i> 25 minutes</span>
+                            <span><i class="fas fa-list"></i> 10 steps</span>
+                        </div>
+                        <button class="tutorial-btn">Start Tutorial</button>
+                    </div>
+
+                    <div class="tutorial-card">
+                        <div class="tutorial-header">
+                            <i class="fas fa-chart-line"></i>
+                            <span class="difficulty medium">Intermediate</span>
+                        </div>
+                        <h3>How to Create Custom Reports</h3>
+                        <p>Generate custom reports and dashboards to track your key metrics and performance.</p>
+                        <div class="tutorial-meta">
+                            <span><i class="fas fa-clock"></i> 20 minutes</span>
+                            <span><i class="fas fa-list"></i> 8 steps</span>
+                        </div>
+                        <button class="tutorial-btn">Start Tutorial</button>
+                    </div>
+
+                    <div class="tutorial-card">
+                        <div class="tutorial-header">
+                            <i class="fas fa-users"></i>
+                            <span class="difficulty easy">Beginner</span>
+                        </div>
+                        <h3>How to Manage Team Access</h3>
+                        <p>Set up user accounts, assign permissions, and manage team collaboration features.</p>
+                        <div class="tutorial-meta">
+                            <span><i class="fas fa-clock"></i> 12 minutes</span>
+                            <span><i class="fas fa-list"></i> 5 steps</span>
+                        </div>
+                        <button class="tutorial-btn">Start Tutorial</button>
+                    </div>
+
+                    <div class="tutorial-card">
+                        <div class="tutorial-header">
+                            <i class="fas fa-link"></i>
+                            <span class="difficulty hard">Advanced</span>
+                        </div>
+                        <h3>How to Set Up API Integrations</h3>
+                        <p>Connect Lightspeed with external services using our REST API and webhooks.</p>
+                        <div class="tutorial-meta">
+                            <span><i class="fas fa-clock"></i> 35 minutes</span>
+                            <span><i class="fas fa-list"></i> 12 steps</span>
+                        </div>
+                        <button class="tutorial-btn">Start Tutorial</button>
+                    </div>
+
+                    <div class="tutorial-card">
+                        <div class="tutorial-header">
+                            <i class="fas fa-mobile-alt"></i>
+                            <span class="difficulty medium">Intermediate</span>
+                        </div>
+                        <h3>How to Use the Mobile App</h3>
+                        <p>Get the most out of the Lightspeed mobile app with tips and advanced features.</p>
+                        <div class="tutorial-meta">
+                            <span><i class="fas fa-clock"></i> 18 minutes</span>
+                            <span><i class="fas fa-list"></i> 7 steps</span>
+                        </div>
+                        <button class="tutorial-btn">Start Tutorial</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Downloads Section -->
+        <section id="downloads" class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Resource Downloads</h2>
+                    <p>Access documentation, templates, tools, and other helpful resources</p>
+                </div>
+
+                <div class="download-categories">
+                    <div class="download-category">
+                        <div class="category-header">
+                            <i class="fas fa-file-alt"></i>
+                            <h3>Documentation</h3>
+                        </div>
+                        <div class="download-items">
+                            <div class="download-item">
+                                <div class="download-info">
+                                    <h4>User Manual (PDF)</h4>
+                                    <p>Complete user guide covering all features and functionality</p>
+                                    <span class="file-meta">PDF • 2.4 MB • Updated: March 2024</span>
+                                </div>
+                                <button class="download-btn">
+                                    <i class="fas fa-download"></i> Download
+                                </button>
+                            </div>
+                            
+                            <div class="download-item">
+                                <div class="download-info">
+                                    <h4>API Documentation</h4>
+                                    <p>Technical documentation for developers and integrators</p>
+                                    <span class="file-meta">PDF • 1.8 MB • Updated: March 2024</span>
+                                </div>
+                                <button class="download-btn">
+                                    <i class="fas fa-download"></i> Download
+                                </button>
+                            </div>
+
+                            <div class="download-item">
+                                <div class="download-info">
+                                    <h4>Quick Reference Guide</h4>
+                                    <p>Printable quick reference for common tasks and shortcuts</p>
+                                    <span class="file-meta">PDF • 512 KB • Updated: February 2024</span>
+                                </div>
+                                <button class="download-btn">
+                                    <i class="fas fa-download"></i> Download
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="download-category">
+                        <div class="category-header">
+                            <i class="fas fa-file-excel"></i>
+                            <h3>Templates & Tools</h3>
+                        </div>
+                        <div class="download-items">
+                            <div class="download-item">
+                                <div class="download-info">
+                                    <h4>Data Import Template</h4>
+                                    <p>Excel template for importing your data into Lightspeed</p>
+                                    <span class="file-meta">XLSX • 45 KB • Updated: January 2024</span>
+                                </div>
+                                <button class="download-btn">
+                                    <i class="fas fa-download"></i> Download
+                                </button>
+                            </div>
+
+                            <div class="download-item">
+                                <div class="download-info">
+                                    <h4>Report Templates</h4>
+                                    <p>Pre-built report templates for common business metrics</p>
+                                    <span class="file-meta">ZIP • 1.2 MB • Updated: February 2024</span>
+                                </div>
+                                <button class="download-btn">
+                                    <i class="fas fa-download"></i> Download
+                                </button>
+                            </div>
+
+                            <div class="download-item">
+                                <div class="download-info">
+                                    <h4>Configuration Checklist</h4>
+                                    <p>Step-by-step checklist for initial system configuration</p>
+                                    <span class="file-meta">PDF • 324 KB • Updated: March 2024</span>
+                                </div>
+                                <button class="download-btn">
+                                    <i class="fas fa-download"></i> Download
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="download-category">
+                        <div class="category-header">
+                            <i class="fas fa-code"></i>
+                            <h3>Developer Resources</h3>
+                        </div>
+                        <div class="download-items">
+                            <div class="download-item">
+                                <div class="download-info">
+                                    <h4>SDK Package</h4>
+                                    <p>Software development kit with libraries and examples</p>
+                                    <span class="file-meta">ZIP • 5.6 MB • Updated: March 2024</span>
+                                </div>
+                                <button class="download-btn">
+                                    <i class="fas fa-download"></i> Download
+                                </button>
+                            </div>
+
+                            <div class="download-item">
+                                <div class="download-info">
+                                    <h4>Code Examples</h4>
+                                    <p>Sample code and integration examples in multiple languages</p>
+                                    <span class="file-meta">ZIP • 2.1 MB • Updated: February 2024</span>
+                                </div>
+                                <button class="download-btn">
+                                    <i class="fas fa-download"></i> Download
+                                </button>
+                            </div>
+
+                            <div class="download-item">
+                                <div class="download-info">
+                                    <h4>Postman Collection</h4>
+                                    <p>Pre-configured API requests for testing and development</p>
+                                    <span class="file-meta">JSON • 156 KB • Updated: March 2024</span>
+                                </div>
+                                <button class="download-btn">
+                                    <i class="fas fa-download"></i> Download
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Contact Support</h2>
+                    <p>Still need help? Our support team is here to assist you</p>
+                </div>
+
+                <div class="contact-grid">
+                    <div class="contact-card">
+                        <i class="fas fa-envelope"></i>
+                        <h3>Email Support</h3>
+                        <p>Get help via email with detailed responses</p>
+                        <a href="mailto:support@lightspeed.com" class="contact-btn">support@lightspeed.com</a>
+                        <span class="response-time">Typical response: 4-8 hours</span>
+                    </div>
+
+                    <div class="contact-card">
+                        <i class="fas fa-comments"></i>
+                        <h3>Live Chat</h3>
+                        <p>Chat with our support team in real-time</p>
+                        <button class="contact-btn" onclick="alert('Live chat feature would be integrated here')">Start Chat</button>
+                        <span class="response-time">Available: Mon-Fri 9AM-6PM EST</span>
+                    </div>
+
+                    <div class="contact-card">
+                        <i class="fas fa-phone"></i>
+                        <h3>Phone Support</h3>
+                        <p>Speak directly with a support specialist</p>
+                        <a href="tel:+1-555-123-4567" class="contact-btn">+1 (555) 123-4567</a>
+                        <span class="response-time">Available: Mon-Fri 8AM-8PM EST</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#help">Online Help</a></li>
+                        <li><a href="#tutorials">How-to Guides</a></li>
+                        <li><a href="#downloads">Downloads</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Support</h4>
+                    <ul>
+                        <li><a href="#contact">Contact Us</a></li>
+                        <li><a href="#">Community Forum</a></li>
+                        <li><a href="#">System Status</a></li>
+                        <li><a href="#">Feature Requests</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Webinars</a></li>
+                        <li><a href="#">Release Notes</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Connect</h4>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-linkedin"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                        <a href="#"><i class="fab fa-github"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Lightspeed Support Portal. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
