@@ -1,7 +1,7 @@
-# Lightspeed Questionnaire User Guide
+![Braintree Logo](images/Braintree_Logo_FA_RGB_01102021_FullONgreen%20200%20by%20200.jpg)
+# Lightspeed Initial Questionnaire
 
 ## Overview
-
 The Lightspeed Questionnaire is your starting point for configuring Business Central. This comprehensive setup wizard helps you define your business requirements and automatically configures the system based on your responses.
 
 ## Questionnaire Sections
