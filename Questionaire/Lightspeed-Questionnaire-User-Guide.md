@@ -4,17 +4,6 @@
 
 The Lightspeed Questionnaire is your starting point for configuring Business Central. This comprehensive setup wizard helps you define your business requirements and automatically configures the system based on your responses.
 
-## Accessing the Questionnaire
-
-1. Open Business Central
-2. Search for "Lightspeed Questionnaire" in the Tell Me search box
-3. Select the questionnaire from the results
-4. The dialog will open with sections for different business areas
-
-## Required Information
-
-**⚠️ Important:** You must select a Financial Year End month before you can close the questionnaire.
-
 ## Questionnaire Sections
 
 ### 🧮 Financial Setup
