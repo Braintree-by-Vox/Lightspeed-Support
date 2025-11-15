@@ -1,5 +1,5 @@
 # theme: jekyll-theme-cayman
-theme: jekyll-theme-architect
+theme: jekyll-theme-slate
 github:
   is_project_page: false
 logo: /images/logo.png
