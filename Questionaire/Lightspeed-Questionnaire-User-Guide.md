@@ -1,4 +1,4 @@
-# Lightspeed Initial Questionnaire
+# Lightspeed Initial Questionaire
 
 ## Overview
 The Lightspeed Questionnaire is your starting point for configuring Business Central. This comprehensive setup wizard helps you define your business requirements and automatically configures the system based on your responses.
