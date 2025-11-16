@@ -1,9 +1,11 @@
 <header class="page-header" role="banner">
     <!-- <meta name="theme-color" content="#157878">         -->
     <meta name="theme-color" content="purple">
-    <img src="{{ '/images/logo.jpg' | relative_url }}" alt="Logo" style="max-height: 80px; margin-bottom: 1rem;" />
-    <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
-    <h1 class="project-name">{{ site.title  }}</h1>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
+        <img src="{{ '/images/logo.jpg' | relative_url }}" alt="Logo" style="max-height: 80px;" />
+        <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
+        <h1 class="project-name" style="margin: 0;">{{ site.title }}</h1>
+    </div>
     <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>

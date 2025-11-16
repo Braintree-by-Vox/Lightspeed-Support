@@ -1,4 +1,4 @@
-# ![Braintree Logo](images/logo.jpg) Warpspeed Support 
+# Warpspeed Support 
 # Welcome to Warpspeed Configurator
 
 ## Initial Questionaire
