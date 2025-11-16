@@ -9,7 +9,7 @@
 
 // Custom header height overrides
 .page-header {
-  max-height: 250px;      // Maximum header height
+  max-height: 200px;      // Maximum header height
   overflow: hidden;       // Hide content that exceeds max-height
   
   // Desktop
@@ -35,3 +35,15 @@
     font-weight: bold;
   }
 }
+
+// Change body background color
+body {
+  background-color: #fffef7 ;  // Light gray (change to your preferred color)
+}
+
+// Optional: Change main content background if you want it different from body
+// .main-content {
+//   background-color: #ffffff;  // White content area
+//   border-radius: 8px;         // Optional rounded corners
+//   box-shadow: 0 2px 4px rgba(0,0,0,0.1);  // Optional shadow
+// }
