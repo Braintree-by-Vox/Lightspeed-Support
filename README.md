@@ -1,6 +1,7 @@
 # ![Braintree Logo](images/logo.jpg) Warpspeed Support 
+# Welcome to Warpspeed Configurator
 
-## Start here
+## Initial Questionaire
 - [Lightspeed Questionnaire User Guide](Questionaire/Lightspeed-Questionnaire-User-Guide.md)
 
 ## Company Setups
