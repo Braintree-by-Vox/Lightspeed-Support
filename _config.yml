@@ -1,8 +1,11 @@
+title: Lightspeed Support
+description: Lightspeed Support and Documentation
 theme: jekyll-theme-cayman
 # theme: jekyll-theme-midnight
 github:
   is_project_page: false
 logo: /images/logo.png
+
 
 # Slate – Professional and sleek.
 # Hacker – Dark, developer-focused style.
