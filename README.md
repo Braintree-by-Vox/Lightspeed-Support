@@ -1,4 +1,4 @@
-# ![Braintree Logo](images/logo.jpg) Lightspeed Support and Documentation
+# ![Braintree Logo](images/logo.jpg) Warpspeed Support 
 
 ## Start here
 - [Lightspeed Questionnaire User Guide](Questionaire/Lightspeed-Questionnaire-User-Guide.md)
@@ -7,3 +7,5 @@
  do some stuff
 
 ## Customers 
+
+## Suppliers
