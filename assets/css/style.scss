@@ -6,3 +6,25 @@
 
 // Then import the theme
 @import "{{ site.theme }}";
+
+// Custom header height overrides
+.page-header {
+  max-height: 200px;      // Maximum header height
+  overflow: hidden;       // Hide content that exceeds max-height
+  
+  // Desktop
+  @media screen and (min-width: 64em) {
+    padding: 3rem 6rem;  // Default is 5rem 6rem
+  }
+  
+  // Tablet
+  @media screen and (min-width: 42em) and (max-width: 64em) {
+    padding: 2rem 4rem;  // Default is 3rem 4rem
+  }
+  
+  // Mobile
+  @media screen and (max-width: 42em) {
+    padding: 1.5rem 1rem;  // Default is 2rem 1rem
+    max-height: 150px;     // Shorter on mobile
+  }
+}

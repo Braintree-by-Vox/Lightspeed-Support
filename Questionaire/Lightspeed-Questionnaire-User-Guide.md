@@ -5,6 +5,8 @@ The Lightspeed Questionnaire is your starting point for configuring Business Cen
 
 ## Questionnaire Sections
 
+[Watch the Questionnaire Walkthrough Video](https://www.youtube.com/watch?v=EqxUU3K7JaI&t=16s)
+
 ### 🧮 Financial Setup
 
 This section configures your core financial settings:
