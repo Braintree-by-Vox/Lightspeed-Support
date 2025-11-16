@@ -1,0 +1,8 @@
+---
+---
+
+// Import custom variables first to override defaults
+@import "lightspeed-variables";
+
+// Then import the theme
+@import "{{ site.theme }}";
