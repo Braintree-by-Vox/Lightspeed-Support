@@ -1,5 +1,5 @@
 # theme: jekyll-theme-cayman
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
 github:
   is_project_page: false
 logo: /images/logo.png
