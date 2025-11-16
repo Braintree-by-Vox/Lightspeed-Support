@@ -9,7 +9,7 @@
 
 // Custom header height overrides
 .page-header {
-  max-height: 300px;      // Maximum header height
+  max-height: 250px;      // Maximum header height
   overflow: hidden;       // Hide content that exceeds max-height
   
   // Desktop
@@ -26,5 +26,12 @@
   @media screen and (max-width: 42em) {
     padding: 1.5rem 1rem;  // Default is 2rem 1rem
     max-height: 150px;     // Shorter on mobile
+  }
+}
+
+// Make section headings bold
+.main-content {
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
   }
 }
