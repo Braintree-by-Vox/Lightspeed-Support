@@ -1,9 +1,8 @@
 title: Braintree Support
-description:  Support and Documentation for Lightspeed Implementation
+description:  Support and Documentation for Lightspeed Rapid Deployment for Microsoft Dynamics 365 Business Central
 theme: jekyll-theme-cayman
 # theme: jekyll-theme-midnight
 show_downloads: true
 github:
   is_project_page: false
 logo: /images/logo.png
-
