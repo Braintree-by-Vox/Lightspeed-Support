@@ -49,4 +49,21 @@ The completed screen should look something like this:
 Close the page.
 
 ## Basic Setups
-This steps carries out a number of actions in one go. 
+This steps carries out a number of actions in one go. Click on 'Run Setup':
+
+![alt text](image-8.png)
+
+This will complete the following steps:
+- Create number series
+- Create payment methods
+- Create Reason codes
+- Create document sending profiles
+- Create marketing setup
+
+After running the Setup, click on REVIEW against each substep to check the details.
+
+## Import Postal Codes
+
+## Import Payment Terms
+
+## Create User Accounts and Setups
