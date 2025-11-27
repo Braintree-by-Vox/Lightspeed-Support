@@ -6,7 +6,8 @@ Before starting with Lightspeed, you will need :
 
 - A Microsoft Dynamics 365 Business Central tenant configured in Microsoft's cloud.
 - The Lightspeed extension installed in your tenant.
-- Your role centre set to 'Braintree Lightspeed V2'.  [How to change your role Centre](HowToChangeRoleCentres)
+- Your role centre set to 'Braintree Lightspeed V2'. &nbsp;&nbsp;
+  >[How to change your role Centre](https://learn.microsoft.com/en-us/dynamics365/business-central/ui-change-basic-settings#role-center)
  
 If you need assistance to get to the starting line:
 - Use the email link on the right 👉 to request assistance from Braintree Support.
