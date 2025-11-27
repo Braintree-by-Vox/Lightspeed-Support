@@ -30,7 +30,7 @@ Before we get started, take note of the following guidelines:
 - ✅ Plan training for all your users to become familiar with the new system.
 - ✅ Use the Go-live readiness assessment to verify that your business is ready to switch over to Business Central.
 
-## [Initial Questionaire](GettingStarted/Lightspeed-Questionnaire-User-Guide.md)
+### [Get Started with the Initial Questionaire](GettingStarted/Lightspeed-Questionnaire-User-Guide)
 
 ## Company-wide configurations
 Run essential company configurations that form the basis of module setups.
