@@ -9,7 +9,7 @@ Before starting with Lightspeed, you will need :
 - Your role centre set to 'Braintree Lightspeed V2'.  [How to change your role Centre](HowToChangeRoleCentres)
  
 If you need assistance to get to the starting line:
-- Use the email link on the right 👉 to request send a mail to Braintree Support  requesting assistance.
+- Use the email link on the right 👉 to request assistance from Braintree Support.
 - After the Lightspeed extension has been installed into your Business Central environment, arrange a training session with your consultant.
 - Follow the step by step process to a successful go-live on Business Central.
 
@@ -18,8 +18,9 @@ When you open Business Central, you should see the following role centre:
 ![alt text](LightspeedHome.png)
 
 ## Some guidelines
+Before we get started, take note of the following guidelines:
 
-### During Setup
+### During Configuration:
 - ✅ Don't enable features unless needed. You can add functionality later as required.
 - ✅ Take the time to examine the health of your master data.
 
@@ -30,8 +31,8 @@ When you open Business Central, you should see the following role centre:
 
 ## [Initial Questionaire](GettingStarted/Lightspeed-Questionnaire-User-Guide.md)
 
-## Company Setups
-Run essential company configurations
+## Company-wide configurations
+Run essential company configurations that form the basis of module setups.
 
 ## Finance
 Configure your General Ledger and and Cashbook.
@@ -39,7 +40,7 @@ Configure your General Ledger and and Cashbook.
 ## Debtors (Sales and Receivables)
 Configure the debtors and sales module. Load customer master data and related information.
 
-## Suppliers
+## Creditors (Purchases and Payables)
 Configure the creditors / purchases module. Load supplier master data and related information.
 
 ## Inventory
