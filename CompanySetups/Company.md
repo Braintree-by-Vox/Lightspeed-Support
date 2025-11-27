@@ -1,11 +1,13 @@
-# Company-wide Setups
+# Company-wide Configuration
 This section covers basic setups that are used throughout Business Central, and will be needed in module-specific configurations.
 
 From the Home page, click on 'Company Setups'
 
-![alt text](image-1.png)
+![alt text](SelectCompanySetups.png)
 
-![alt text](image-4.png)
+The following screen will open: 
+
+![alt text](CompanySetups.png)
 
 Work through the actions from top to bottom. The ‼️ symbol indicates that the step is compulsory, and that it must be done before subsequent steps can be handled.
 

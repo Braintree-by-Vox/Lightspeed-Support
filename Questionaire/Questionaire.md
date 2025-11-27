@@ -1,12 +1,19 @@
 # Initial Questionaire
 
-- [Overview](#overview)
+- [Overview and Guidelines](#overview)
 - [Financial Setups](#-financial-setup)
 - [Inventory and Warehousing](#-inventory-and-warehousing-setup)
 - [Advanced Modules](#-advanced-modules)
 - [Validation Templates](#validation-templates)
 
 ## Overview
+Some basic concepts to note while working through the Lightspeed process:
+- In general, it's a good idea to work through the modules on the home page, from left to right, top to bottom. 
+- Within a module, work through the steps from top to bottom. The ‼️ symbol indicates that the step is compulsory, and that it must be done before subsequent steps can be handled.
+- You can redo steps as many times as required, and return to prior steps at any point in the process.
+- Try to tick off each step that applies to your business, and resolve data quality issues before you go live with Business Central.
+- Make use of the Go-Live Readiness assessment to sign off the critical steps of the process, and to hold your team accountable for your preparation process.
+    
 The Lightspeed Questionnaire is your starting point for configuring Business Central. This helps you define your business requirements and automatically configures the system based on your responses.
 
 From the Lightspeed home page, click on 'Answer initial questionaire'.

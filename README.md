@@ -1,7 +1,5 @@
 # Overview
-Use the Lightspeed Configuration wizard to get up and running on Microsoft Dynamics 365 Business Central, with maximum speed and minimum fuss!
-
-![alt text](LightspeedHome.png)
+The Lightspeed Rapid Deployment process is designed to guide you through a step-by-step approach to configure a brand-new installation of Microsoft Dynamics 365 Business Central, and get your business ready up and running, with maximum speed and minimum fuss!
 
 ## Getting Started with Lightspeed
 Before starting with Lightspeed, you will need :
@@ -15,6 +13,10 @@ If you need assistance to get to the starting line:
 - After the Lightspeed extension has been installed into your Business Central environment, arrange a training session with your consultant.
 - Follow the step by step process to a successful go-live on Business Central.
 
+When you open Business Central, you should see the following role centre:
+
+![alt text](LightspeedHome.png)
+
 ## Some guidelines
 
 ### During Setup
@@ -25,7 +27,6 @@ If you need assistance to get to the starting line:
 - ✅ Test key processes with sample data. Your consultant can assist you in drawing up test scripts and tesing plans
 - ✅ Plan training for all your users to become familiar with the new system.
 - ✅ Use the Go-live readiness assessment to verify that your business is ready to switch over to Business Central.
-
 
 ## [Initial Questionaire](Questionaire/Lightspeed-Questionnaire-User-Guide.md)
 
