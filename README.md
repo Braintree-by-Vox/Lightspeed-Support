@@ -6,10 +6,10 @@ Before starting with Lightspeed, you will need :
 
 - A Microsoft Dynamics 365 Business Central tenant configured in Microsoft's cloud.
 - The Lightspeed extension installed in your tenant.
-- To set your role centre to 'Braintree Lightspeed V2'.
+- Your role centre set to 'Braintree Lightspeed V2'.  [How to change your role Centre](HowToChangeRoleCentres)
  
 If you need assistance to get to the starting line:
-- Use the email link on the right 👉 to send a mail to Braintree Support, requesting assistance.
+- Use the email link on the right 👉 to request send a mail to Braintree Support  requesting assistance.
 - After the Lightspeed extension has been installed into your Business Central environment, arrange a training session with your consultant.
 - Follow the step by step process to a successful go-live on Business Central.
 
@@ -28,7 +28,7 @@ When you open Business Central, you should see the following role centre:
 - ✅ Plan training for all your users to become familiar with the new system.
 - ✅ Use the Go-live readiness assessment to verify that your business is ready to switch over to Business Central.
 
-## [Initial Questionaire](Questionaire/Lightspeed-Questionnaire-User-Guide.md)
+## [Initial Questionaire](GettingStarted/Lightspeed-Questionnaire-User-Guide.md)
 
 ## Company Setups
 Run essential company configurations
