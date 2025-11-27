@@ -5,6 +5,8 @@
 - [Inventory and Warehousing](#-inventory-and-warehousing-setup)
 - [Advanced Modules](#-advanced-modules)
 - [Validation Templates](#validation-templates)
+- [Using Import Data Templates](#using-data-import-templates)
+- [Using the Data dictionary](#using-data-dictionary)
 
 ## Overview
 Some basic concepts to note while working through the Lightspeed process:
@@ -68,7 +70,11 @@ Use this section to switch on access to configure advanced modules in Business C
   - Resource allocation
   - Project invoicing
 
-## Validation Templates
+## [Validation Templates](DataValidation)
 To assist in managing the quality of data which will be imported, a set of validation templates are provided. These can be amended, or new templates created, based on the data rules that apply to the business.
+
+## [Using Data Import Templates](DataTemplates)
+
+## [Using Data Dictionary](Dictionary)
 
 [**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
