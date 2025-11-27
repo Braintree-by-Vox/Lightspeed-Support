@@ -11,26 +11,27 @@ The Lightspeed Questionnaire is your starting point for configuring Business Cen
 
 From the Lightspeed home page, click on 'Answer initial questionaire'.
 
-![alt text](image.png)
+![alt text](SelectionQuestionaire.png)
 
 ## 🧮 Financial Setup
 This section configures your core financial settings:
 
-![alt text](image-1.png)
+![alt text](FinancialSetup.png)
 
 **Financial Year End:** from the dropdown, select the month in which your financial year ends.
+
 **Number of Financial Years:** This will default to 3, but can be amended to any number of 3 or greater. The system will create financial periods for the prior year, current year nd one or more years into the future.
 
-**Number of Bank Accounts:**  indicates how many bank accounts need to be configured.  
+**Number of Bank Accounts:**  Enter the number of bank accounts which your business operates.
 
 ## 📦 Inventory and Warehousing Setup
 This section determines your inventory management approach:
 
-![alt text](image-2.png)
+![alt text](InventorySetup.png)
 
 **Do you buy and sell inventory?** If the business trades with stock, turn the switch on. This will make the inventory setups available on the home screen.
 
-**Number of Locations** "How many inventory warehouses do you operate?" Enter the number of separate physical locations where you need to manage your inventory.
+**How many inventory warehouses do you operate?** Enter the number of separate physical locations where you need to manage your inventory.
 
 >It is not compulsory to use locations to manage stock in Business Central. If your business is simple, and stock is stored in a single site, you may choose to omit locations from your configuration.
 
@@ -62,25 +63,5 @@ Use this section to switch on access to configure advanced modules in Business C
 
 ## Validation Templates
 To assist in managing the quality of data which will be imported, a set of validation templates are provided. These can be amended, or new templates created, based on the data rules that apply to the business.
-
-## Best Practices
-
-### Before Starting
-- ✅ Review your business requirements
-- ✅ Consult with your accounting team
-- ✅ Understand your warehouse operations
-- ✅ Know your financial year-end date
-
-### During Setup
-- ✅ Answer all questions accurately
-- ✅ Consider future growth when setting quantities
-- ✅ Don't enable advanced features unless needed
-- ✅ Use conservative estimates initially
-
-### After Completion
-- ✅ Review the setup areas that were configured
-- ✅ Test key processes with sample data
-- ✅ Adjust settings as needed through individual setup pages
-- ✅ Train users on enabled modules
 
 [**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
