@@ -73,8 +73,8 @@ Use this section to switch on access to configure advanced modules in Business C
 ## [Validation Templates](DataValidation)
 To assist in managing the quality of data which will be imported, a set of validation templates are provided. These can be amended, or new templates created, based on the data rules that apply to the business.
 
-## [Using Data Import Templates](DataTemplates)
+## [Using Data Import Templates](/General/DataTemplates)
 
-## [Using Data Dictionary](Dictionary)
+## [Using the Data Dictionary](/General/Dictionary)
 
 [**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
