@@ -67,9 +67,57 @@ Complete the template as follows:
 |Account usage      |Accounts associated with subledgers (eg Debtors Control) should be categorised with one of the values in the sheet 'Lightspeed Key Acct Usage' |
 
 ## Dimensions
+Dimensions are values that categorize entries so you can track and analyze them on documents, such as sales orders. Some commonly used dimensions are available for you to choose from when you install the Lightspeed extension.
+
+Click on '▶️Run Setup' on the 'Suggest / Create Dimensions' task. The list of predefined options will be displayed:
+
+![alt text](image-5.png)
+
+If you need a dimension which is not listed, go to the empty line at the bottom of the page, and insert the new code.
+
+Identify the dimensions you want to use, then, in sequence of priority, tick on the column 'Activate Dimension'. The priority column will be updated with a number starting at 1, and incrementing by 1 for each dimension you turn on. In the example below, Division will become the Global Dimension 1, Region becomes global dimension 2, and Market becomes dimension 3. 
+
+![alt text](image-6.png)
+
+When you are happy with your choices, click on OK to complete the process. When complete, the dialog will be displayed:
+
+![alt text](image-7.png)
+
+For more information on how dimensions are used in Business Central, follow the link below:
+
+[Learn more about dimensions](https://learn.microsoft.com/en-us/dynamics365/business-central/finance-dimensions)
 
 ## Bank Accounts
+In Business Central, banking entries are run via the bank subledger. Each bank account that the business operates should be created in Business Central.
+
+### Banking institutions
+On installation, Lightspeed will create a list of the major banking institutions in use in South Africa, together with their universal branch code and Swift code. These can be used to associate your business bank accounts with the appropriate codes. You can add or edit the list by clicking on ''✅REVIEW' on the task 'Review Banking Institutions' 
+
+![alt text](image-8.png)
+
+### Creating Bank accounts
+Check the number of bank accounts being requested on the Finance Module Configuraiton page:
+
+![alt text](image-9.png)
+
+Click on '▶️Run Setup' on the 'Create Bank accounts' task. The bank accounts and their associated posting groups will be created. When the step is complete, the dialog will be displayed:
+
+![alt text](image-10.png)
+
+Click on '✅REVIEW'. The bank accounts will be displayed, for you to complete remaining details:
+
+![alt text](image-11.png)
+
+For each account, enter the business's account number with the bank, and select the appropriate institution. The branch number and swift code will be completed.
+
+![alt text](image-12.png)
 
 ## Currencies and Exchange Rates
+Currencies are automatically created when the countries are created. All that remains is to update with the correct general ledger account numbers (for posting exchange rate profit/loss), and to set the exchange rates.
+
+Click on '▶️Run Setup'. This will insert the GL acocunt designated with the usage code 'CURR' into the currency records. Click on '✅REVIEW' to check the results and update exchange rates.
 
 ## Posting Groups and Setups
+General posting setups and VAT setups are used to post trading-related transactions such as sales from subledgers to general ledger, and to manage VAT postings.
+
+Click on '▶️Run Setup' to run the step, then click on '✅REVIEW' on 'Review General posting setups' and 'Review VAT posting setups' to review the accounts setup.
