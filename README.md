@@ -57,4 +57,8 @@ Configure the Manufacturing module. Create bills of material, work centres and r
 Configure the projects module.
 
 ### Take on Opening Balances
-Load opening balances for general ledger and stock. Load open items for 
+Load opening balances for general ledger and stock. Load open items for Customers nad Suppliers.
+
+---
+
+[**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)

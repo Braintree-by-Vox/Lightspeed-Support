@@ -12,11 +12,15 @@ The following screen will open:
 Work through the actions from top to bottom. The ‼️ symbol indicates that the step is compulsory, and that it must be done before subsequent steps can be handled.
 
 - [Import Country Information](#import-country-information)
+- [Run Basic Setups](#basic-setups)
+- [Update Company Information]()
+- [Load Postal Codes](#import-postal-codes)
 - [Create Payment Terms](#create-payment-terms)
-- [Load Postal Code](#import-postal-codes)
+- [Create User Accounts and Setups](#create-user-accounts-and-setups)
 
 ## Import Country Information
 Country codes are used as part of addresses in various entries in Business Central. 
+>This is a compulsory step
 To load country information, click on 'Run Setup' on the 'Import Country Information'. 
 On the popup, choose an option, then click on OK.
 
@@ -56,6 +60,7 @@ Close the page.
 
 ## Basic Setups
 This steps carries out a number of actions in one go. Click on 'Run Setup':
+>This is a compulsory step
 
 ![alt text](image-8.png)
 
@@ -88,16 +93,19 @@ Click on '▶️Run Setup' for the task. When complete, click on '✅REVIEW Conf
 ### Add a new code
 To add a new code, go to a blank line, and capture a payment terms code of up to 10 alpha-numeric characters. Then capture fetails as follows:
 
-| Field name            | Entry |
-| Due from              | Enter 'Statement' to calculate payment due dates from date of statement,
-                         Enter 'Invoice' to calculate payment due dates from date of invoice  |
+| **Field name**        | **Entry** |
+| Due from              | Enter 'Statement' to calculate payment due dates from date of statement,|
+|                       | Enter 'Invoice' to calculate payment due dates from date of invoice  |
 | No. of days due       | Enter the number of payment days allowed. |
 | Discount due within   | If you allow customers to claim settlement discount, enter the number of days within which payment must be made |
 | Discount %            | The percentage discount claimable if payment is made within the discount terms|
 
-
 ## Create User Accounts and Setups
+Users are granted access to Business Central by associating their organisation login or email with a Business Central licence. This is usually done by a system administrator. In addition to the user account, there may be other settings that need to be configured around your business rules, for example allowable posting dates.
 
+From the Company setup, click on '▶️Run Setup' for the task 'Create user accounts and setups'. The system will create a user setup for each licensed user.
+
+Click on the REVIEW option for User Accounts or User Setups, to review user information.
 ---
 
 [**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
