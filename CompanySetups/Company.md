@@ -103,9 +103,9 @@ To add a new code, go to a blank line, and capture a payment terms code of up to
 ## Create User Accounts and Setups
 Users are granted access to Business Central by associating their organisation login or email with a Business Central licence. This is usually done by a system administrator. In addition to the user account, there may be other settings that need to be configured around your business rules, for example allowable posting dates.
 
-From the Company setup, click on '▶️Run Setup' for the task 'Create user accounts and setups'. The system will create a user setup for each licensed user.
+From the Company setup, click on **▶️Run Setup** for the task 'Create user accounts and setups'. The system will create a user setup for each licensed user.
 
 Click on the REVIEW option for User Accounts or User Setups, to review user information.
----
 
+---
 [**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
