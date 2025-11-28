@@ -35,11 +35,37 @@ After the step has been completed, click on '✅REVIEW' for the steps 'Review GL
 General ledger acocunts are created to manage the business's financial administration. A standard chart of accounts is available to get started, or you can load your own chart of accounts.
 
 ### Option 1: Load the standard chart of accounts
-Click on '▶️Run Setup' for the General Ledger Accounts step. From the dialog, click on 'Import JSON Example'.
+Click on '▶️Run Setup' for the General Ledger Accounts step. From the dialog, click on 'Import JSON Example', then click on OK.
 
 ![alt text](image-2.png)
 
-The sample chart of accounts will be loaded. This 
+The sample chart of accounts will be loaded.
+
+### Option 2: Load from Excel
+A customer chart of accounts can be created from Excel. This is a multistep process:
+- Export template to Excel
+- Populate template in Excel
+- Import populated Excel template.
+
+#### Export template
+Click on '▶️Run Setup' for the General Ledger Accounts step. From the dialog, click on 'Export Excel Template' then click on OK:
+
+![alt text](image-3.png)
+
+Open the downloaded template:
+
+![alt text](image-4.png)
+
+Complete the template as follows:
+
+| Column            | Value                                     |
+|No.                |Enter the general ledger account number    |
+|Name               |Enter the description of the account       |
+|Account Type       |Enter Begin-total, Posting, or End-Total   |
+|Account Category   |                                           |
+|Income / Balance   |Enter 'Income Statement' or 'Balance Sheet  |
+|Account usage      |Accounts associated with subledgers (eg Debtors Control) should be categorised with one of the values in the sheet 'Lightspeed Key Acct Usage' |
+
 ## Dimensions
 
 ## Bank Accounts
