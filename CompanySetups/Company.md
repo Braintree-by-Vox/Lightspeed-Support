@@ -85,6 +85,16 @@ Click on '▶️Run Setup' for the task. When complete, click on '✅REVIEW Conf
 
 ![alt text](image-1.png)
 
+### Add a new code
+To add a new code, go to a blank line, and capture a payment terms code of up to 10 alpha-numeric characters. Then capture fetails as follows:
+
+| Field name            | Entry |
+| Due from              | Enter 'Statement' to calculate payment due dates from date of statement,
+                         Enter 'Invoice' to calculate payment due dates from date of invoice  |
+| No. of days due       | Enter the number of payment days allowed. |
+| Discount due within   | If you allow customers to claim settlement discount, enter the number of days within which payment must be made |
+| Discount %            | The percentage discount claimable if payment is made within the discount terms|
+
 
 ## Create User Accounts and Setups
 
