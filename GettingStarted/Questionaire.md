@@ -16,22 +16,22 @@ Some basic concepts to note while working through the Lightspeed process:
 - Try to tick off each step that applies to your business, and resolve data quality issues before you go live with Business Central.
 - Make use of the Go-Live Readiness assessment to sign off the critical steps of the process, and to hold your team accountable for your preparation process.
     
-The Lightspeed Questionnaire is your starting point for configuring Business Central. This helps you define your business requirements and automatically configures the system based on your responses.
+The Lightspeed Questionaire is your starting point for configuring Business Central. This helps you define your business requirements and automatically configures the system based on your responses.
 
 From the Lightspeed home page, click on 'Answer initial questionaire'.
 
-![alt text](SelectionQuestionaire.png)
+![alt text](SelectQuestionaire.png)
 
 ## 🧮 Financial Setup
-This section configures your core financial settings:
 
 ![alt text](FinancialSetup.png)
+These settings will be used during the configuration of the Finance module of Business Central.
 
-**Financial Year End:** from the dropdown, select the month in which your financial year ends.
+**What month does your financial year end?:** from the dropdown, select the month in which your financial year ends.
 
-**Number of Financial Years:** This will default to 3, but can be amended to any number of 3 or greater. The system will create financial periods for the prior year, current year nd one or more years into the future.
+**How many financial years would you like to create?:** This will default to 3, but can be amended to any number of 3 or greater. The system will create financial periods for the prior year, current year nd one or more years into the future. 
 
-**Number of Bank Accounts:**  Enter the number of bank accounts which your business operates.
+**How many bank accounts do you operate?:**  Enter the number of bank accounts which your business operates.
 
 ## 📦 Inventory and Warehousing Setup
 This section determines your inventory management approach:
@@ -44,14 +44,15 @@ This section determines your inventory management approach:
 
 >It is not compulsory to use locations to manage stock in Business Central. If your business is simple, and stock is stored in a single site, you may choose to omit locations from your configuration.
 
-**"Do you want to use Advanced Warehousing?"** Activates the setups for advanced warehousing, which includes
+**Do you want to use Advanced Warehousing"** Activates the setups for advanced warehousing, which includes
 - Pick processes
 - Put-away processes
 - Bin management
 - Directed put-away and pick
 - Cross-docking
 - Warehouse zoning
->Consideration: Only enable if you need complex warehouse workflows.
+  
+>Consideration: Only enable Warehousing if you use complex warehouse processes.
 
 **Over-receiving Threshold** This setting allows you to over-receive goods. For example, if you order a quantity of 500 units of a product, and you have an over-delivery percent of 10, you will be allowed to receive up to 550 units on the order, without modifying the order quantity.
 
@@ -70,11 +71,13 @@ Use this section to switch on access to configure advanced modules in Business C
   - Resource allocation
   - Project invoicing
 
-## [Validation Templates](DataValidation)
+## [Validation Templates](../General/DataValidation.md)
 To assist in managing the quality of data which will be imported, a set of validation templates are provided. These can be amended, or new templates created, based on the data rules that apply to the business.
 
 ## [Using Data Import Templates](../General/DataTemplates.md)
 
 ## [Using the Data Dictionary](../General/Dictionary.md)
+
+---
 
 [**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)

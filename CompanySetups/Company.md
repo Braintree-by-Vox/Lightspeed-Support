@@ -11,6 +11,10 @@ The following screen will open:
 
 Work through the actions from top to bottom. The ‼️ symbol indicates that the step is compulsory, and that it must be done before subsequent steps can be handled.
 
+- [Import Country Information](#import-country-information)
+- [Create Payment Terms](#create-payment-terms)
+- [Load Postal Code](#import-postal-codes)
+
 ## Import Country Information
 Country codes are used as part of addresses in various entries in Business Central. 
 To load country information, click on 'Run Setup' on the 'Import Country Information'. 
@@ -65,7 +69,25 @@ This will complete the following steps:
 After running the Setup, click on REVIEW against each substep to check the details.
 
 ## Import Postal Codes
+This step loads South African postal codes. The step provides two options:
+- JSON: import from the JSON file which is packaged with Lightspeed.
+- Excel: import via an Excel sheet.
 
-## Import Payment Terms
+>Recommendation: Use the built-in JSON file.
+
+Click on Run Setup, and follow the prompts.  After the import is completed, you can click on '✅ REVIEW Configs or Data' to examine or edit the postal codes.
+
+## Create Payment Terms
+Payment terms are used in the Debtors and Creditors modules to calculate due dates on invoices. A sample set of payment terms can be loaded, and thereafter edited 
+A sample of commonly used payment terms is deployed when Lightspeed is installed.
+
+Click on '▶️Run Setup' for the task. When complete, click on '✅REVIEW Configs or data'.
+
+![alt text](image-1.png)
+
 
 ## Create User Accounts and Setups
+
+---
+
+[**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
