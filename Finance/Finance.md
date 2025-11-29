@@ -3,7 +3,7 @@
 ## Overview
 The Finance Module Configuration sets up Business Central for processing of basic financial information, including General Ledger entries and cash entries.
 
-- [Create Fiscal Years](#accounting-periods)
+- [Create Fiscal Years](#accounting-periods-and-fiscal-years)
 - [General Ledger Accounts](#general-ledger-accounts)
 - [Dimensions](#dimensions)
 - [Bank accounts](#bank-accounts)
@@ -56,7 +56,7 @@ Open the downloaded template:
 
 ![alt text](image-4.png)
 
-Complete the template as follows:
+#### Complete the template as follows:
 
 | Column            | Value                                     |
 |No.                |Enter the general ledger account number    |
@@ -65,6 +65,9 @@ Complete the template as follows:
 |Account Category   |                                           |
 |Income / Balance   |Enter 'Income Statement' or 'Balance Sheet  |
 |Account usage      |Accounts associated with subledgers (eg Debtors Control) should be categorised with one of the values in the sheet 'Lightspeed Key Acct Usage' |
+
+#### Review GL Accounts
+After loading the chart of accounts, click on **✅REVIEW** to view the account details. You can edit information on the accounts from this page.
 
 ## Dimensions
 Dimensions are values that categorize entries so you can track and analyze them on documents, such as sales orders. Some commonly used dimensions are available for you to choose from when you install the Lightspeed extension.

@@ -80,13 +80,13 @@ This step loads South African postal codes. The step provides two options:
 
 >Recommendation: Use the built-in JSON file.
 
-Click on Run Setup, and follow the prompts.  After the import is completed, you can click on '✅ REVIEW Configs or Data' to examine or edit the postal codes.
+Click on Run Setup, and follow the prompts.  After the import is completed, you can click on **'✅ REVIEW Configs or Data'** to examine or edit the postal codes.
 
 ## Create Payment Terms
 Payment terms are used in the Debtors and Creditors modules to calculate due dates on invoices. A sample set of payment terms can be loaded, and thereafter edited 
 A sample of commonly used payment terms is deployed when Lightspeed is installed.
 
-Click on '▶️Run Setup' for the task. When complete, click on '✅REVIEW Configs or data'.
+Click on '▶️Run Setup' for the task. When complete, click on **'✅REVIEW Configs or data'**.
 
 ![alt text](image-1.png)
 
