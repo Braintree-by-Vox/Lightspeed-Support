@@ -124,3 +124,5 @@ Click on '▶️Run Setup'. This will insert the GL acocunt designated with the 
 General posting setups and VAT setups are used to post trading-related transactions such as sales from subledgers to general ledger, and to manage VAT postings.
 
 Click on '▶️Run Setup' to run the step, then click on '✅REVIEW' on 'Review General posting setups' and 'Review VAT posting setups' to review the accounts setup.
+
+[**⬆️ Back to Top**](#finance-module-configuration) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)

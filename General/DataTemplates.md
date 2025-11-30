@@ -39,3 +39,5 @@ Scroll again, until the fields Minimum and Maximum become visible.
 
 For text fields, these values can be used to manage the length of a field. For numeric fields, they control the minimum allowable value, and the maximum allowable value.
 In this example, the fields 'Code' and 'Name' have a mimimum length of 1. This will cause the system to report a data quality issue with records where these fields are blank. The field 'Commission %' must contain a value between 0 and 100. Since 100% may be an unrealistic commssion rate, you may choose to set it to the value appropriate in your business.
+
+[**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)

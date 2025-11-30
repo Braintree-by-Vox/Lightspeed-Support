@@ -108,4 +108,5 @@ From the Company setup, click on **▶️Run Setup** for the task 'Create user a
 Click on the REVIEW option for User Accounts or User Setups, to review user information.
 
 ---
+
 [**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
