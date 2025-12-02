@@ -49,27 +49,8 @@ Customer master data is loaded via an Excel template. Along with the customer de
 - Populate the sheet with the customer information and delivery details, and save the file.
 - Click on '▶️Run Setup' again, and this time, select 'Import Data'.
 
-<details>
-<summary>The standard data template includes the following fields  (click for details)</summary>
-<ul>
-        - Customer number
-        - Name
-        - Address
-        - Phone number
-        - Email address
-        - Credit limit
-        - Co. Registration and VAT registration numbers,
-        - Payment terms
-        - Delivery address
-<!-- <li>Line 2 of detail</li>  -->
-<!-- copy line above to add details -->
-</ul>
-</details>
-
-
-
 The standard data template includes the following fields (click for details):
-        The standard data template includes the following fields:
+
         - Customer number
         - Name
         - Address
