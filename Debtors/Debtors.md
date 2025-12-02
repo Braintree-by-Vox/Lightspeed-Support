@@ -72,7 +72,7 @@ When the import is complete, a dialog will be displayed:
 
 ![alt text](image-7.png)
 
->[How to review data errors](../General/Error%20Corrections.md)
+>[How to review data errors](General/ErrorCorrections.md)
 
 **Review Customer Details**
 To review and edit custmer details, click on '✅REVIEW'. The Customer list will open. You can edit details on this page if required, or you can open the Customer Card by clicking on the Edit action in hte menu bar.
@@ -95,6 +95,6 @@ When you import customers, a primary contact will be created for each new custom
 Use this step to set up customer-specific price groups (optional).
 
 ## Report Selections
-If you want to change the default document layout selection for customer quotes, order confirmations, invoices, credit notes and statements, click on '✅REVIEW' on the Report Selections - Sales task.
+If you want to change the default document layout selection for customer quotes, order confirmations, invoices, credit notes and statements, click on '✅REVIEW' on the 'Report Selections - Sales task'.
 
 [**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
