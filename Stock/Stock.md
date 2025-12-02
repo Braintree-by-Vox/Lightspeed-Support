@@ -30,6 +30,7 @@ Item categories are used to group inventory items for reporting purposes. It is 
 
 ## Locations
 
+
 ## Inventory Item Master
 
 ## Posting Setups
