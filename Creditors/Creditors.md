@@ -4,30 +4,35 @@ Start by clicking on Creditors from the Home page:
 
 ![alt text](image.png)
 
+![alt text](image-1.png)
+
 ## Create setup and posting groups
 This is a priority task, which must be done before other tasks are attempted.
 
-![alt text](image-3.png)
+![alt text](image-5.png)
 
 Click on '▶️Run Setup' for the task 'Create Setup and posting groups'.
-This will update the Purchases and Payables setup table with commonly used settings, and assign the document numbers.
+This will update the Purchases and Payables setup table with commonly used settings, and assign the document number series.
 
 It will also create Vendor Posting Groups, which are used to connect the creditors subledger to the general ledger creditors control accounts.  
-A posting group will be created for each general ledger account designated with the key account usage 'DEBTORS'.
+A posting group will be created for each general ledger account designated with the key account usage 'CREDITORS'.
 
-To review the Sales and Receivables setup, click on '✅REVIEW' on the task 'Review Sales & Receivables Setup'. 
+To review the Purchases and Payables setup, click on '✅REVIEW' on the task 'Review Purchases and Payables'. 
 
 To review the posting groups, click on '✅REVIEW' on the task 'Review posting groups.
 
-After running the setups, the first customer posting group will be inserted in the page header, in the 'Default Posting Group' field. This will be used to set the customer posting group when importing accounts from Excel. You can amend this if required.
+After running the setups, the first Vendor posting group will be inserted in the page header, in the 'Default Posting Group' field. This will be used to set the customer posting group when importing accounts from Excel. You can amend this if required.
 
 ## Vendor Master
 Supplier master data is loaded via an Excel template. Along with the supplier details, a default vendor bank account and primary contact are created.
 
 Before importing vendors, select a default payment terms code and payment method code, and check that the default posting group is correct:
 
+![alt text](image-3.png)
+
 **Import from Excel**
 
+![alt text](image-4.png)
 
 - Click on '▶️Run Setup' for the task 'Import Vendor master records'. 
 - Click on 'Export Template' to create an empty Excel Sheet.
