@@ -21,6 +21,8 @@ To review the Sales and Receivables setup, click on '✅REVIEW' on the task 'Rev
 
 To review the posting groups, click on '✅REVIEW' on the task 'Review posting groups.
 
+After running the setups, the first customer posting group will be inserted in the page header, in the 'Default Posting Group' field. This will be used to set the customer posting group when importing accounts from Excel. You can amend this if required.
+
 ## Salespeople
 If your business keeps track of revenue for salespeople, you can import salespeople from an Excel sheet, or capture the salespeople directly into the system.
 
@@ -41,9 +43,14 @@ If you have imported Salespeople from Excel, the imported details will be displa
 ## Customer Master
 Customer master data is loaded via an Excel template. Along with the customer details, a default delivery address and primary contact are created.
 
-![alt text](image-5.png)
+Before importing customers, select a default payment terms code and payment method code, and check that the default posting group is correct:
+
+![alt text](image-6.png)
 
 **Import from Excel**
+
+![alt text](image-5.png)
+
 - Click on '▶️Run Setup' for the task 'Import Customer master records'. 
 - Click on 'Export Template' to create an empty Excel Sheet.
 - Populate the sheet with the customer information and delivery details, and save the file.
@@ -61,7 +68,28 @@ The standard data template includes the following fields (click for details):
         - Payment terms
         - Delivery address
 
+When the import is complete, a dialog will be displayed:
+
+![alt text](image-7.png)
+
+>[How to review data errors](../General/Error%20Corrections.md)
+
+**Review Customer Details**
+To review and edit custmer details, click on '✅REVIEW'. The Customer list will open. You can edit details on this page if required, or you can open the Customer Card by clicking on the Edit action in hte menu bar.
+
+![alt text](image-8.png)
+
+**Review Delivery Addresses**
+To review deilivery addresses, click on '✅REVIEW' on the 'Customer Shipping Addresses' task. You can now edit or add delivery addresses.
+
 ## Contacts
+When you import customers, a primary contact will be created for each new customer. You can review them by clicking on '✅REVIEW' on the customer contacts task.  You can also load additional contacts, by following a similar process to the import for customers:
+
+- Click  '▶️Run Setup'
+- Export template
+- Populate template
+- Click '▶️Run Setup'
+- Import from template
 
 ## Customer Price Groups
 
