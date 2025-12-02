@@ -74,6 +74,16 @@ The items will be loaded.
 **Review Item Data**
 To review and edit item details, click on '✅REVIEW'. The Item list will open. You can edit details on this page if required, or you can open the Item Card by clicking on the Edit action in the menu bar.
 
+![alt text](image-8.png)
+
 ## Posting Setups
+After updating locations, review the posting setups:
+
+![alt text](image-9.png)
+
+Click on '✅REVIEW'. The posting setup should contain an entry per combination of posting group and location, including an INTRANSIT location:
+
+![alt text](image-10.png)
+
 
 [**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
