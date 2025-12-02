@@ -57,7 +57,7 @@ When the import is complete, a dialog will be displayed:
 >[How to review data errors](../General/ErrorCorrections.md)
 
 **Review Supplier Details**
-To review and edit custmer details, click on '✅REVIEW'. The Vendor list will open. You can edit details on this page if required, or you can open the Customer Card by clicking on the Edit action in the menu bar.
+To review and edit supplier details, click on '✅REVIEW'. The Vendor list will open. You can edit details on this page if required, or you can open the Item Card by clicking on the Edit action in the menu bar.
 
 ![alt text](image-8.png)
 
