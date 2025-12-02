@@ -72,7 +72,7 @@ When the import is complete, a dialog will be displayed:
 
 ![alt text](image-7.png)
 
->[How to review data errors](General/ErrorCorrections.md)
+>[How to review data errors](../General/ErrorCorrections.md)
 
 **Review Customer Details**
 To review and edit custmer details, click on '✅REVIEW'. The Customer list will open. You can edit details on this page if required, or you can open the Customer Card by clicking on the Edit action in hte menu bar.
