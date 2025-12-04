@@ -4,6 +4,21 @@ This section deals with the process of loading opening values into the general l
 - ✅ Loaded and validated all master data
 - ✅ Decided on a financial cutover date - typically at the end of a month, or the end of a financial year.
 
+From the Home page, click on 'Opening Balances':
+
+![alt text](image.png)
+
+The take-on task list will open:
+
+![alt text](image-1.png)
+
+Before you begin, capture the take-on date. This should be the last day of the cut-over month:
+
+![alt text](image-2.png)
+
+### Suspense accounts for subledger take-on
+During installation, some general ledger accounts are created to be used during the take-on of sub ledgers
+
 ### [General Ledger Opening Balances](GL.MD)
 
 ### [Debtors Open Items](Debtors.MD)
