@@ -40,10 +40,8 @@ If you are using dimensions, a column for each dimension will appear at the end 
 
 Things to keep in mind:
 
-        **The batch must balance**: the total must equal zero
-        **If you are using dimensions** : there should be one line per combination of GL account number, and the various dimension values.
-
-
+**The batch must balance**: the total must equal zero
+**If you are using dimensions** : there should be one line per combination of GL account number, and the various dimension values.
 
 
 [**⬆️ Back to Top**](#general-opening-balances) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
