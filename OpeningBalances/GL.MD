@@ -41,7 +41,28 @@ If you are using dimensions, a column for each dimension will appear at the end 
 Things to keep in mind:
 
 **The batch must balance**: the total must equal zero
+
 **If you are using dimensions** : there should be one line per combination of GL account number, and the various dimension values.
+
+**Import Data Sheet**
+After you have finished preparing the spreadsheet, save and close the sheet.
+On the batch list page, click 'Import Batch'. From the dialog, click on 'Import Data', then click OK:
+
+![alt text](image-6.png)
+
+Navigate to the folder where your take-on sheet was saved, and select it. When the import has completed, you will see the dialog :
+
+![alt text](image-7.png)
+
+Click OK to complete the process.
+
+If errors occurred during the import, they will be recorded in the error log. This will typically include records with invalid account numbers or dimension codes.  Click on 'Review Errors' to display the errors:
+
+![alt text](image-8.png)
+
+Click on 'Edit Journal' to open the transactions. You can check or edit the entries. 
+
+If you are happy with the batch (and it balances to zero), you can post the batch.
 
 
 [**⬆️ Back to Top**](#general-opening-balances) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
