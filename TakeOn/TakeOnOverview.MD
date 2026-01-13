@@ -1,7 +1,7 @@
 # Taking on opening balances
 
 ## Overview
-This section deals with the process of loading opening values into the general ledger and the various subledgers with the system. Before starting the process you should already have:
+This section deals with the process of loading opening values into the general ledger and the various sub ledgers with the system. Before starting the process you should already have:
 - ✅ Completed configurations for all modules that you will be using
 - ✅ Loaded and validated all master data
 - ✅ Decided on a financial cutover date - typically at the end of a month, or the end of a financial year.

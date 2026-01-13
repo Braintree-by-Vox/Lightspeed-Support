@@ -1,3 +1,9 @@
+---
+layout: default
+title: Braintree Landed Cost 
+description: Support and documentation for Braintree's Implementation acceleration for Microsoft Dynamics 365 Business Central
+---
+
 # Fixed Assets
 Use this module to configure the set up the Fixed assets module of Business Central
 
@@ -16,7 +22,7 @@ This step creates the default depreciation book and updates the fixed assets set
 Use the '✅REVIEW' action for the tasks 'Review Fixed Assets Setup' and 'Review Depreciation Books' to examine the results.
 
 ## Create Posting Setups
-Thi task creates fixed asset categories and posting group, which are used to define how the fixed assets subledger is connected to the General Ledger accounts.
+Thi task creates fixed asset categories and posting group, which are used to define how the fixed assets sub ledger is connected to the General Ledger accounts.
 
 Click on '▶️Run Setup' for the task.
 
@@ -65,16 +71,16 @@ Columns G to K are used to record the financial details of the asset:
 
         Acquisition Date: the date on which the asset was acquired by the business.
         Acquisition Cost: the original purchase cost of the asset
-        Depreciation date: the last date at which the asset was depreciationed
-        Depreciation cost: accumulated depreciation as at the depreciatoin date
+        Depreciation date: the last date at which the asset was depreciated
+        Depreciation cost: accumulated depreciation as at the depreciation date
         Useful life: the total length in months that the asset is depreciated over.
 
 After preparing and saving the spreadsheet, click again on '▶️Run Setup', and this time, select 'Import Data'. For each asset on the sheet, the process will:
 - Create a new fixed asset
 - Create an associated depreciation book.
 - Create a FA ledger entry for the acquisition cost
-- Create a FA ldger entry for the accumulated depreciation.
+- Create a FA ledger entry for the accumulated depreciation.
 
-The result is a set of assets, with fixed asset subclass and posting group assigned, and net book value recorded in fixed assets subledger.
+The result is a set of assets, with fixed asset subclass and posting group assigned, and net book value recorded in fixed assets sub ledger.
 
 [**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)

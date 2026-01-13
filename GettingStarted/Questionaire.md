@@ -1,4 +1,10 @@
-# Initial Questionaire
+---
+layout: default
+title: Braintree Landed Cost 
+description: Support and documentation for Braintree's Implementation acceleration for Microsoft Dynamics 365 Business Central
+---
+
+# Initial Questionnaire
 
 - [Overview and Guidelines](#overview)
 - [Financial Setups](#-financial-setup)
@@ -16,9 +22,9 @@ Some basic concepts to note while working through the Lightspeed process:
 - Try to tick off each step that applies to your business, and resolve data quality issues before you go live with Business Central.
 - Make use of the Go-Live Readiness assessment to sign off the critical steps of the process, and to hold your team accountable for your preparation process.
     
-The Lightspeed Questionaire is your starting point for configuring Business Central. This helps you define your business requirements and automatically configures the system based on your responses.
+The Lightspeed Questionnaire is your starting point for configuring Business Central. This helps you define your business requirements and automatically configures the system based on your responses.
 
-From the Lightspeed home page, click on 'Answer initial questionaire'.
+From the Lightspeed home page, click on 'Answer initial questionnaire'.
 
 ![alt text](SelectQuestionaire.png)
 

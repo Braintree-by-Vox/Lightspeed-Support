@@ -1,3 +1,9 @@
+---
+layout: default
+title: Braintree Landed Cost 
+description: Support and documentation for Braintree's Implementation acceleration for Microsoft Dynamics 365 Business Central
+---
+
 # Creditors / Purchases and Payables Module
 Use this section to configure the Purchases and Payables module of Business Central.
 Start by clicking on Creditors from the Home page:

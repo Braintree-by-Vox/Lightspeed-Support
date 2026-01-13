@@ -1,3 +1,9 @@
+---
+layout: default
+title: Braintree Landed Cost 
+description: Support and documentation for Braintree's Implementation acceleration for Microsoft Dynamics 365 Business Central
+---
+
 # Managing Data Templates
 Data templates are used to map Excel data to Business Central tables.  
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Braintree Landed Cost 
+description: Support and documentation for Braintree's Implementation acceleration for Microsoft Dynamics 365 Business Central
+---
+
 # General Opening Balances
 General ledger balances should be taken on as at the chosen opening balance date. A balance must be provided for each unique combination of general ledger account number and dimension values.
 

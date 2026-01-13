@@ -1,3 +1,9 @@
+---
+layout: default
+title: Braintree Landed Cost 
+description: Support and documentation for Braintree's Implementation acceleration for Microsoft Dynamics 365 Business Central
+---
+
 # Company-wide Configuration
 This section covers basic setups that are used throughout Business Central, and will be needed in module-specific configurations.
 

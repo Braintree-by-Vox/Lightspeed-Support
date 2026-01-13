@@ -1,3 +1,9 @@
+---
+layout: default
+title: Braintree Landed Cost 
+description: Support and documentation for Braintree's Implementation acceleration for Microsoft Dynamics 365 Business Central
+---
+
 # Debtors Open Items Take-on
 The debtors book can be brought on as opening balances per customer, or open entries (transactions with an outstanding balance).
 

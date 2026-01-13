@@ -1,3 +1,9 @@
+---
+layout: default
+title: Braintree Landed Cost 
+description: Support and documentation for Braintree's Implementation acceleration for Microsoft Dynamics 365 Business Central
+---
+
 # Debtors / Sales and Receivables Module
 Use this section to configure the Sales and Receivables module of Business Central.
 Start by clicking on Debtors from the Home page:

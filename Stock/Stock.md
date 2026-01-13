@@ -1,3 +1,9 @@
+---
+layout: default
+title: Braintree Landed Cost 
+description: Support and documentation for Braintree's Implementation acceleration for Microsoft Dynamics 365 Business Central
+---
+
 # Stock Module Configuration
 Use this section to configure the Inventory module of Business Central.
 Start by clicking on Stock from the Home page:
@@ -14,7 +20,7 @@ This is a priority task, which must be done before other tasks are attempted.
 Click on '▶️Run Setup' for the task 'Inventory Setups'.
 This will update the Inventory setup table with commonly used settings, and assign the document number series .
 
-It will also create Inventory Posting Groups, which are used to connect the inventory subledger to the general ledger inventory control accounts.  
+It will also create Inventory Posting Groups, which are used to connect the inventory sub ledger to the general ledger inventory control accounts.  
 A posting group will be created for each general ledger account designated with the key account usage 'INVENTORY'.
 
 To review the Inventory setup, click on '✅REVIEW' on the task 'Review Inventory Setup'. 
