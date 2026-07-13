@@ -67,4 +67,4 @@ Click on 'Edit Journal' to open the transactions. You can check or edit the entr
 If you are happy with the batch, you can post the batch.
 
 
-[**⬆️ Back to Top**](#debtors-open-items-take-on) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
+[**⬆️ Back to Top**](#debtors-open-items-take-on) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/FastTrack-Support)

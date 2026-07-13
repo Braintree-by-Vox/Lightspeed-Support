@@ -103,4 +103,4 @@ Use this step to set up customer-specific price groups (optional).
 ## Report Selections
 If you want to change the default document layout selection for customer quotes, order confirmations, invoices, credit notes and statements, click on '✅REVIEW' on the 'Report Selections - Sales task'.
 
-[**⬆️ Back to Top**](#debtors--sales-and-receivables-module) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
+[**⬆️ Back to Top**](#debtors--sales-and-receivables-module) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/FastTrack-Support)

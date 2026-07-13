@@ -71,4 +71,4 @@ Click on 'Edit Journal' to open the transactions. You can check or edit the entr
 If you are happy with the batch (and it balances to zero), you can post the batch.
 
 
-[**⬆️ Back to Top**](#general-opening-balances) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
+[**⬆️ Back to Top**](#general-opening-balances) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/FastTrack-Support)

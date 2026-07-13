@@ -2,4 +2,4 @@
 
 
 
-[**⬆️ Back to Top**](#inventory-opening-balances) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
+[**⬆️ Back to Top**](#inventory-opening-balances) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/FastTrack-Support)

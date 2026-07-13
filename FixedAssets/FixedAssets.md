@@ -83,4 +83,4 @@ After preparing and saving the spreadsheet, click again on '▶️Run Setup', an
 
 The result is a set of assets, with fixed asset subclass and posting group assigned, and net book value recorded in fixed assets sub ledger.
 
-[**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
+[**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/FastTrack-Support)

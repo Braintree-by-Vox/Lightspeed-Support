@@ -83,4 +83,4 @@ When you import suppliers, a primary contact will be created for each new suppli
 If you want to change the default document layout selection for purchase orders, click on '✅REVIEW' on the 'Report Selections - Sales task'.
 
 
-[**⬆️ Back to Top**](#creditors--purchases-and-payables-module) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
+[**⬆️ Back to Top**](#creditors--purchases-and-payables-module) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/FastTrack-Support)

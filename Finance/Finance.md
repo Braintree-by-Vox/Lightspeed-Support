@@ -64,13 +64,13 @@ Open the downloaded template:
 |Account Type       |Enter Begin-total, Posting, or End-Total   |
 |Account Category   |                                           |
 |Income / Balance   |Enter 'Income Statement' or 'Balance Sheet  |
-|Account usage      |Accounts associated with subledgers (eg Debtors Control) should be categorised with one of the values in the sheet 'Lightspeed Key Acct Usage' |
+|Account usage      |Accounts associated with subledgers (eg Debtors Control) should be categorised with one of the values in the sheet 'FastTrack Key Acct Usage' |
 
 #### Review GL Accounts
 After loading the chart of accounts, click on **✅REVIEW** to view the account details. You can edit information on the accounts from this page.
 
 ## Dimensions
-Dimensions are values that categorize entries so you can track and analyze them on documents, such as sales orders. Some commonly used dimensions are available for you to choose from when you install the Lightspeed extension.
+Dimensions are values that categorize entries so you can track and analyze them on documents, such as sales orders. Some commonly used dimensions are available for you to choose from when you install the FastTrack extension.
 
 Click on '▶️Run Setup' on the 'Suggest / Create Dimensions' task. The list of predefined options will be displayed:
 
@@ -94,7 +94,7 @@ For more information on how dimensions are used in Business Central, follow the 
 In Business Central, banking entries are run via the bank subledger. Each bank account that the business operates should be created in Business Central.
 
 ### Banking institutions
-On installation, Lightspeed will create a list of the major banking institutions in use in South Africa, together with their universal branch code and Swift code. These can be used to associate your business bank accounts with the appropriate codes. You can add or edit the list by clicking on ''✅REVIEW' on the task 'Review Banking Institutions' 
+On installation, FastTrack will create a list of the major banking institutions in use in South Africa, together with their universal branch code and Swift code. These can be used to associate your business bank accounts with the appropriate codes. You can add or edit the list by clicking on ''✅REVIEW' on the task 'Review Banking Institutions' 
 
 ![alt text](image-8.png)
 
@@ -125,4 +125,4 @@ General posting setups and VAT setups are used to post trading-related transacti
 
 Click on '▶️Run Setup' to run the step, then click on '✅REVIEW' on 'Review General posting setups' and 'Review VAT posting setups' to review the accounts setup.
 
-[**⬆️ Back to Top**](#finance-module-configuration) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
+[**⬆️ Back to Top**](#finance-module-configuration) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/FastTrack-Support)

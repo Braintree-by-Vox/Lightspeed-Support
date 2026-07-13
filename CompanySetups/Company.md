@@ -81,7 +81,7 @@ After running the Setup, click on REVIEW against each substep to check the detai
 
 ## Import Postal Codes
 This step loads South African postal codes. The step provides two options:
-- JSON: import from the JSON file which is packaged with Lightspeed.
+- JSON: import from the JSON file which is packaged with FastTrack.
 - Excel: import via an Excel sheet.
 
 >Recommendation: Use the built-in JSON file.
@@ -90,7 +90,7 @@ Click on Run Setup, and follow the prompts.  After the import is completed, you 
 
 ## Create Payment Terms
 Payment terms are used in the Debtors and Creditors modules to calculate due dates on invoices. A sample set of payment terms can be loaded, and thereafter edited 
-A sample of commonly used payment terms is deployed when Lightspeed is installed.
+A sample of commonly used payment terms is deployed when FastTrack is installed.
 
 Click on '▶️Run Setup' for the task. When complete, click on **'✅REVIEW Configs or data'**.
 
@@ -115,4 +115,4 @@ Click on the REVIEW option for User Accounts or User Setups, to review user info
 
 ---
 
-[**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
+[**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/FastTrack-Support)
