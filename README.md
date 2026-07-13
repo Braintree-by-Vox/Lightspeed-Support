@@ -1,11 +1,11 @@
 # Overview
-The FastTrack Rapid Deployment process is designed to guide you through a step-by-step approach to configure a brand-new installation of Microsoft Dynamics 365 Business Central, and get your business ready up and running, with maximum speed and minimum fuss!
+The FastTrack Rapid Deployment process is designed to guide you through a step-by-step approach to configure a brand-new installation of Microsoft Dynamics 365 Business Central, or create a new company in an existing Business Central installation, and get your business ready up and running, with maximum speed and minimum fuss!
 
 ## Before you begin
 Before starting with FastTrack, you will need :
 - A Microsoft Dynamics 365 Business Central tenant configured in Microsoft's cloud.
 - The FastTrack extension installed in your tenant.
-- Your role centre set to 'Braintree FastTrack V2'. &nbsp;&nbsp;
+- Your role centre set to 'Braintree FastTrack Setup Wizard'. &nbsp;&nbsp;
   
   >[How to change your role Centre](GettingStarted/HowToChangeRoleCentres.md)
  
