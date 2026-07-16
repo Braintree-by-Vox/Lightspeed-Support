@@ -22,11 +22,11 @@ When you open Business Central, you should see the following role centre:
 Before we get started, take note of the following guidelines:
 
 #### During Configuration:
-- ✅ Don't enable features unless needed. You can add functionality later as required.
+- ✅ Don't enable features unless you need them. You can add functionality later if required.
 - ✅ Take the time to examine the health of your master data.
 
 #### Next steps
-- ✅ Test key processes with sample data. Your consultant can assist you in drawing up test scripts and tesing plans
+- ✅ Test key processes with sample data. Your consultant can assist you in drawing up test scripts and testing plans
 - ✅ Plan training for all your users to become familiar with the new system.
 - ✅ Use the Go-live readiness assessment to verify that your business is ready to switch over to Business Central.
 
