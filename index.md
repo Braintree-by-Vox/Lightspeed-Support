@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's FastTrack Implementation Manager to Microsoft Dynamics 365 Business Central
+---
+
 # Overview
 The FastTrack Rapid Deployment process is designed to guide you through a step-by-step approach to configure a brand-new installation of Microsoft Dynamics 365 Business Central, or create a new company in an existing Business Central installation, and get your business ready up and running, with maximum speed and minimum fuss!
 
