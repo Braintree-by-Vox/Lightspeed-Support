@@ -6,12 +6,11 @@ description: Support and documentation for Braintree's FastTrack Implementation 
 
 # Release notes
 
-**Release (Appsource version) (Braintree version)**
+**Release 28.0.0.0**
 <details>
-<summary>No new releases  (click for details)</summary>
+<summary>Fixed Assets</summary>
 <ul>
-<li>Line 1 of detail</li>
-<li>Line 2 of detail</li> 
+<li>New field added to default import template: Depreciation Start Date</li>
 <!-- copy line above to add details -->
 </ul>
 </details>
