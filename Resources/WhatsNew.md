@@ -6,11 +6,12 @@ description: Support and documentation for Braintree's FastTrack Implementation 
 
 # Release notes
 
-**Release 28.0.0.0**
+**Release 28.0.20260727.3**
 <details>
-<summary>Fixed Assets</summary>
+<summary>Fixed Assets (click for details)</summary>
 <ul>
 <li>New field added to default import template: Depreciation Start Date</li>
+<li>Populate G/L Acquisition date on FA Depreciation Book</li>
 <!-- copy line above to add details -->
 </ul>
 </details>
