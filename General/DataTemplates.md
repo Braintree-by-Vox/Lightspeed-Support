@@ -1,17 +1,17 @@
 ---
-layout: default
-title: Braintree Landed Cost 
-description: Support and documentation for Braintree's Implementation acceleration for Microsoft Dynamics 365 Business Central
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's FastTrack Implementation Manager to Microsoft Dynamics 365 Business Central
 ---
 
 # Managing Data Templates
 Data templates are used to map Excel data to Business Central tables.  
 
-When the Lightspeed extension is installed, a number of default data templates are automatically loaded, one template per module. Each table in these templates is configured with the commonly used or essential columns required for the table. The templates can be edited, to remove or add columns as needed.The template is also used to configure basic data validation and quality checks.
+When the FastTrack extension is installed, a number of default data templates are automatically loaded, one template per module. Each table in these templates is configured with the commonly used or essential columns required for the table. The templates can be edited, to remove or add columns as needed.The template is also used to configure basic data validation and quality checks.
 
-Additional templates can be added for loading adhoc tables that are not catered for in the standard Lightspeed configuration.
+Additional templates can be added for loading adhoc tables that are not catered for in the standard FastTrack configuration.
 
-The configuration page for each module provides access to the module-specific template. All templates are accessible from the Lightspeed home page, by clicking on 'Edit Templates':
+The configuration page for each module provides access to the module-specific template. All templates are accessible from the FastTrack home page, by clicking on 'Edit Templates':
 
 ![alt text](EditTemplate.png)
 
@@ -46,4 +46,4 @@ Scroll again, until the fields Minimum and Maximum become visible.
 For text fields, these values can be used to manage the length of a field. For numeric fields, they control the minimum allowable value, and the maximum allowable value.
 In this example, the fields 'Code' and 'Name' have a mimimum length of 1. This will cause the system to report a data quality issue with records where these fields are blank. The field 'Commission %' must contain a value between 0 and 100. Since 100% may be an unrealistic commssion rate, you may choose to set it to the value appropriate in your business.
 
-[**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
+[**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/FastTrack-Support)

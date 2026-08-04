@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Braintree Landed Cost 
-description: Support and documentation for Braintree's Implementation acceleration for Microsoft Dynamics 365 Business Central
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's FastTrack Implementation Manager to Microsoft Dynamics 365 Business Central
 ---
 
 # Initial Questionnaire
@@ -15,16 +15,16 @@ description: Support and documentation for Braintree's Implementation accelerati
 - [Using the Data dictionary](#using-data-dictionary)
 
 ## Overview
-Some basic concepts to note while working through the Lightspeed process:
+Some basic concepts to note while working through the FastTrack process:
 - In general, it's a good idea to work through the modules on the home page, from left to right, top to bottom. 
 - Within a module, work through the steps from top to bottom. The ‼️ symbol indicates that the step is compulsory, and that it must be done before subsequent steps can be handled.
 - You can redo steps as many times as required, and return to prior steps at any point in the process.
 - Try to tick off each step that applies to your business, and resolve data quality issues before you go live with Business Central.
 - Make use of the Go-Live Readiness assessment to sign off the critical steps of the process, and to hold your team accountable for your preparation process.
     
-The Lightspeed Questionnaire is your starting point for configuring Business Central. This helps you define your business requirements and automatically configures the system based on your responses.
+The FastTrack Questionnaire is your starting point for configuring Business Central. This helps you define your business requirements and automatically configures the system based on your responses.
 
-From the Lightspeed home page, click on 'Answer initial questionnaire'.
+From the FastTrack home page, click on 'Answer initial questionnaire'.
 
 ![alt text](SelectQuestionaire.png)
 
@@ -86,4 +86,4 @@ To assist in managing the quality of data which will be imported, a set of valid
 
 ---
 
-[**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
+[**⬆️ Back to Top**](#initial-questionaire) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/FastTrack-Support)

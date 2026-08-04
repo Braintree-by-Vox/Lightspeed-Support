@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Braintree Landed Cost 
-description: Support and documentation for Braintree's Implementation acceleration for Microsoft Dynamics 365 Business Central
+layout: NewLayout
+title: Welcome to Braintree Support
+description: Support and documentation for Braintree's FastTrack Implementation Manager to Microsoft Dynamics 365 Business Central
 ---
 
 # Creditors Open Items Take-on
@@ -67,4 +67,4 @@ Click on 'Edit Journal' to open the transactions. You can check or edit the entr
 If you are happy with the batch, you can post the batch.
 
 
-[**⬆️ Back to Top**](#debtors-open-items-take-on) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/Lightspeed-Support)
+[**⬆️ Back to Top**](#debtors-open-items-take-on) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/FastTrack-Support)
