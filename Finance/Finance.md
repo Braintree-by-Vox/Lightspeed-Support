@@ -97,10 +97,10 @@ For more information on how dimensions are used in Business Central, follow the 
 [Learn more about dimensions](https://learn.microsoft.com/en-us/dynamics365/business-central/finance-dimensions)
 
 ## Bank Accounts
-In Business Central, banking entries are run via the bank subledger. Each bank account that the business operates should be created in Business Central.
+In Business Central, banking entries are run via the bank sub ledger. Each bank account that the business operates should be created in Business Central.
 
 ### Banking institutions
-On installation, FastTrack will create a list of the major banking institutions in use in South Africa, together with their universal branch code and Swift code. These can be used to associate your business bank accounts with the appropriate codes. You can add or edit the list by clicking on ''✅REVIEW' on the task 'Review Banking Institutions' 
+On installation, FastTrack creates a list of the major banking institutions in use in South Africa, together with their universal branch code and Swift code. These can be used to associate your business bank accounts with the appropriate codes. You can add or edit the list by clicking on ''✅REVIEW' on the task 'Review Banking Institutions' 
 
 ![alt text](image-8.png)
 

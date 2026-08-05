@@ -6,12 +6,24 @@ description: Support and documentation for Braintree's FastTrack Implementation 
 
 # Release notes
 
-**Release 28.0.20260804.1**
+**Release 28.0.20260805.0**
 <details>
 <summary>Payment terms bug  (click for details)</summary>
 <ul>
 <li>Payment terms due date calculation was not being set on import.</li>
 <li>Bug resolved.</li> 
+<!-- copy line above to add details -->
+</ul>
+<summary>General Posting Review bug  (click for details)</summary>
+<ul>
+<li>Setup subpage fails to open, Sales & Receivables setup record is missing.</li>
+<li>Bug resolved.</li> 
+<summary>Financial Configuration: create source codes  (click for details)</summary>
+<ul>
+<li>Setup creates standard source codes and source code setup.</li>
+<!-- copy line above to add details -->
+</ul>
+
 <!-- copy line above to add details -->
 </ul>
 </details>
